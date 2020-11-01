@@ -1,0 +1,12 @@
+{
+  "name": "WhatsAppUI",
+  "displayName": "WhatsAppUI",
+  "expo": {
+    "name": "WhatsAppUi",
+    "slug": "WhatsAppUI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
